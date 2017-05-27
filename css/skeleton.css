@@ -292,7 +292,7 @@ label > .label-body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside;
-  color: #2AFF42 }
+  color: #2AFF42; }
 ol {
   list-style: decimal inside; }
 ol, ul {
